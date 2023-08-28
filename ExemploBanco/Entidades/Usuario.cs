@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace BancoIF.Entidades
 {
+    /*Classe responsável por gerenciamento de usuário*/
     internal class Usuario
     {
         public int Id_user { get; set; }
