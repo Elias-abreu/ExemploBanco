@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Telas\CadAgencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\Cad_Conta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\Depositar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\FormPix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\Sacar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\Transferir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
