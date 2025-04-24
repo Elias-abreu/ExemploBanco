@@ -1,0 +1,15 @@
+C:\Users\elias\source\repos\ExemploBanco\bin\Debug\net9.0\ExemploBanco.exe
+C:\Users\elias\source\repos\ExemploBanco\bin\Debug\net9.0\ExemploBanco.deps.json
+C:\Users\elias\source\repos\ExemploBanco\bin\Debug\net9.0\ExemploBanco.runtimeconfig.json
+C:\Users\elias\source\repos\ExemploBanco\bin\Debug\net9.0\ExemploBanco.dll
+C:\Users\elias\source\repos\ExemploBanco\bin\Debug\net9.0\ExemploBanco.pdb
+C:\Users\elias\source\repos\ExemploBanco\obj\Debug\net9.0\ExemploBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\source\repos\ExemploBanco\obj\Debug\net9.0\ExemploBanco.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\ExemploBanco\obj\Debug\net9.0\ExemploBanco.AssemblyInfo.cs
+C:\Users\elias\source\repos\ExemploBanco\obj\Debug\net9.0\ExemploBanco.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\ExemploBanco\obj\Debug\net9.0\ExemploBanco.sourcelink.json
+C:\Users\elias\source\repos\ExemploBanco\obj\Debug\net9.0\ExemploBanco.dll
+C:\Users\elias\source\repos\ExemploBanco\obj\Debug\net9.0\refint\ExemploBanco.dll
+C:\Users\elias\source\repos\ExemploBanco\obj\Debug\net9.0\ExemploBanco.pdb
+C:\Users\elias\source\repos\ExemploBanco\obj\Debug\net9.0\ExemploBanco.genruntimeconfig.cache
+C:\Users\elias\source\repos\ExemploBanco\obj\Debug\net9.0\ref\ExemploBanco.dll
