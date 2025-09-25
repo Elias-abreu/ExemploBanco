@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\elias\\source\\repos\\ExemploBanco\\",
+  "WorkspaceRootPath": "C:\\Users\\elias\\Downloads\\Nova pasta\\ExemploBanco\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06F63138-0AF9-47C1-B2E8-EDAE888A3E62}|ExemploBanco.csproj|c:\\users\\elias\\source\\repos\\exemplobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06F63138-0AF9-47C1-B2E8-EDAE888A3E62}|ExemploBanco.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06F63138-0AF9-47C1-B2E8-EDAE888A3E62}|ExemploBanco2.csproj|c:\\users\\elias\\downloads\\nova pasta\\exemplobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F63138-0AF9-47C1-B2E8-EDAE888A3E62}|ExemploBanco2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06F63138-0AF9-47C1-B2E8-EDAE888A3E62}|ExemploBanco.csproj|c:\\users\\elias\\source\\repos\\exemplobanco\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06F63138-0AF9-47C1-B2E8-EDAE888A3E62}|ExemploBanco.csproj|solutionrelative:contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06F63138-0AF9-47C1-B2E8-EDAE888A3E62}|ExemploBanco2.csproj|c:\\users\\elias\\downloads\\nova pasta\\exemplobanco\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F63138-0AF9-47C1-B2E8-EDAE888A3E62}|ExemploBanco2.csproj|solutionrelative:contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ContaBancaria.cs",
-              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\ExemploBanco\\ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\elias\\Downloads\\Nova pasta\\ExemploBanco\\ContaBancaria.cs",
               "RelativeDocumentMoniker": "ContaBancaria.cs",
-              "ToolTip": "C:\\Users\\elias\\source\\repos\\ExemploBanco\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\elias\\Downloads\\Nova pasta\\ExemploBanco\\ContaBancaria.cs",
               "RelativeToolTip": "ContaBancaria.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAqwBoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T00:25:43.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T00:25:43.358Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\ExemploBanco\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\elias\\Downloads\\Nova pasta\\ExemploBanco\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\elias\\source\\repos\\ExemploBanco\\Program.cs",
+              "ToolTip": "C:\\Users\\elias\\Downloads\\Nova pasta\\ExemploBanco\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T00:24:34.61Z",
               "EditorCaption": ""

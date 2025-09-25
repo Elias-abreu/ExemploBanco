@@ -1,6 +1,6 @@
 ﻿
 List<ContaBancaria> lista = new List<ContaBancaria> ();
-
+//teste
 while (true)
 {
 	Console.WriteLine("Digite 1 para cadastrar um nova conta e 2 para listar todas");
